@@ -3,3 +3,5 @@ this is a new file I'd like to add.
 Don't tell me that I can't add it because I most surely can.
 
 Fuck you bitch! Pay me.
+
+These are the edits I made straight from git hub.
